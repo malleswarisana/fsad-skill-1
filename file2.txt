@@ -1,3 +1,7 @@
 Learning Git Version Control
+ HEAD
 This is file2 for Git experiment
 Git helps track changes in files
+
+Bug fix applied in this branch
+ bug-fix
