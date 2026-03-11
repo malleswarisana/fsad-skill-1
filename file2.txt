@@ -1,1 +1,2 @@
 Learning Git Version Control
+Bug fix applied in this branch
